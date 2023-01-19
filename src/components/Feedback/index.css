@@ -1,0 +1,68 @@
+/* Write your CSS code here. */
+.background-color {
+  background-image: linear-gradient(to right, #ffeeee, #ffc0bb);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.white-background {
+  background-color: #ffffff;
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  border-radius: 10px;
+}
+
+.heading {
+  color: #0f172a;
+  font-size: 30px;
+  font-family: 'Roboto';
+}
+
+.img-style {
+  height: 80px;
+  width: 80px;
+  margin: 10px;
+}
+
+.paragraph {
+  color: #1e293b;
+  font-size: 20px;
+  font-family: 'Roboto';
+}
+
+.list-container {
+  padding: 10px;
+}
+
+.emoji-container {
+  display: flex;
+  list-style-type: none;
+}
+
+.main-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: linear-gradient(to right, #ffeeee, #ffc0bb);
+  height: 100vh;
+  background-size: cover;
+}
+
+.love-card-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #ffffff;
+  padding: 30px;
+}
+
+.image {
+  height: 100px;
+  width: 100px;
+  margin: 10px;
+}
